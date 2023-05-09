@@ -22,5 +22,6 @@
 
 ## Tecnologias utilizadas:
           
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="150px"/> <img src="https://www.logo.wine/a/logo/Laravel/Laravel-Logo.wine.svg" width="200px"/>
+<img src="https://www.logo.wine/a/logo/Laravel/Laravel-Logo.wine.svg" width="200px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="150px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="120px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="120px"/>
+          
           
