@@ -12,6 +12,15 @@
 <a href="https://www.linkedin.com/in/gabriel-camur%C3%A7a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+## Minhas estatísticas:
+
+<div>
+<a href="https://github.com/gabrielcamurcab">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcamurcab&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcamurcab&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 ## Tecnologias utilizadas:
+          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="150px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="150px"/>
           
