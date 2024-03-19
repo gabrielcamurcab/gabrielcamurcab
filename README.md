@@ -36,6 +36,6 @@ Estou sempre aberto a novas conexões e desafios. Se você quer discutir código
 - 🌐 **GitHub:** [github.com/gabrielcamurcab](https://github.com/gabrielcamurcab/)
 - 💼 **LinkedIn:** [linkedin.com/in/gabrielcamurca](https://www.linkedin.com/in/gabrielcamurca/)
 - 📷 **Instagram:** [instagram.com/camurca.dev](https://www.instagram.com/camurca.dev/)
-- 📧 **E-mail:** [projetosdocamurca@outlook.com](mailto:projetosdocamurca@outlook.com)
+- 📧 **E-mail:** [gabriel.camurca@outlook.com](mailto:gabriel.camurca@outlook.com)
 
 Até logo, e que seus deploys sejam sempre suaves como uma atualização de biblioteca sem breaking changes! 🚀✨
