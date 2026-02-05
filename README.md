@@ -1,41 +1,27 @@
-# 👋 Saudações, Devs!
+<h1 align="center">Hi 👋, I'm Gabriel</h1>
+<h3 align="center">A passionate backend developer from Brazil</h3>
 
-## Sobre Mim
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielcamurcab&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielcamurcab" /> </p>
 
-Olá, galera! Eu sou Gabriel Camurça, um entusiasta do código que se aventura no mundo complexo e fascinante do desenvolvimento back-end. Sou cristão, onde encontro inspiração para trilhar os caminhos da ética e responsabilidade no universo tech.
+- 🔭 I’m currently working on **ApplyTracker**
 
-## 💻 Codificando com Paixão
+- 🌱 I’m currently learning **A curso.dev (by Filipe Deschamps course)**
 
-Minha jornada no desenvolvimento começou com PHP e NodeJS, construindo as bases para sólidas experiências digitais. No entanto, como um verdadeiro aventureiro do código, estou expandindo meu território, explorando as maravilhas de ReactJS e Flutter. Quem disse que back-end não pode ter um pouco de brilho frontend, não é mesmo?
+- 📝 I regularly write articles on [https://dev.to/gabrielcamurcab](https://dev.to/gabrielcamurcab)
 
-## 📚 Amor pelas Palavras
+- 💬 Ask me about **nodejs, nestjs**
 
-Entre linhas de código, eu me perco nas páginas de livros. A leitura é meu refúgio, proporcionando conhecimento, imaginação e uma pausa bem-vinda da sintaxe. Assim como na programação, cada livro conta uma história única.
+- 📫 How to reach me **gabriel.camurca@outlook.com**
 
-## 🤣 Dose Diária de Humor Tech
+- 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vTqEZrW9e0ML7h9IKljU-O2xOnC4JdoC1GXG1BQLnMsA7Wli_CBvEvQvcxtk0QcGk9iyjwk_HksHMcw/pub](https://docs.google.com/document/d/e/2PACX-1vTqEZrW9e0ML7h9IKljU-O2xOnC4JdoC1GXG1BQLnMsA7Wli_CBvEvQvcxtk0QcGk9iyjwk_HksHMcw/pub)
 
-Não resisto a uma boa piada tech, afinal, programar sem humor é como compilar sem café: algo inevitavelmente vai dar errado. Aqui vai uma para animar o seu dia:
+- ⚡ Fun fact **I'm like read a books**
 
-```javascript
-if (vida === "caótica") {
-  // Solução: CTRL + Z na vida e esperar o próximo commit
-  console.log("Quando tudo está uma bagunça, programadores sabem como dar rollback.");
-}
-```
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/gabrielcamurcab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gabrielcamurcab" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gabrielcamurca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielcamurca" height="30" width="40" /></a>
+</p>
 
-## 📊 Estatísticas do GitHub
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabrielcamurcab&count_private=true&show_icons=true&theme=dark)](https://github.com/gabrielcamurcab)
-
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcamurcab&layout=compact&theme=dark)](https://github.com/gabrielcamurcab)
-
-## 🚀 Vamos Conectar!
-
-Estou sempre aberto a novas conexões e desafios. Se você quer discutir códigos, compartilhar experiências ou trocar recomendações de livros, estou a um pull request de distância. Vamos construir algo incrível juntos!
-
-- 🌐 **GitHub:** [github.com/gabrielcamurcab](https://github.com/gabrielcamurcab/)
-- 💼 **LinkedIn:** [linkedin.com/in/gabrielcamurca](https://www.linkedin.com/in/gabrielcamurca/)
-- 📷 **Instagram:** [instagram.com/ocamurca_](https://www.instagram.com/ocamurca_/)
-- 📧 **E-mail:** [gabriel.camurca@outlook.com](mailto:gabriel.camurca@outlook.com)
-
-Até logo, e que seus deploys sejam sempre suaves como uma atualização de biblioteca sem breaking changes! 🚀✨
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
