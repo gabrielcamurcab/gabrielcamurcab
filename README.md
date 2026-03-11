@@ -1,4 +1,4 @@
-# Camurça
+# Gabriel Camurça
 
 Backend Developer focused on building reliable systems and solving real-world problems.
 
@@ -13,6 +13,7 @@ Backend Developer focused on building reliable systems and solving real-world pr
 - PHP
 - Linux
 - REST APIs
+- C#
 
 ## 📚 Currently
 - Studying Software Architecture
