@@ -1,29 +1,26 @@
 # Gabriel Camurça
 
-Backend Developer focused on building reliable systems and solving real-world problems.
+Backend Developer focused on building reliable systems and understanding how software works under the hood.
 
-## 🚀 About me
+## About
 - Backend developer
-- Background in Linux, networks and systems infrastructure
+- Background in Linux infrastructure and networking
 - Interested in databases, system architecture and backend engineering
+- Software Engineering student and Software Architecture postgraduate
 
-## 🛠️ Tech
+## Tech
 - Node.js
 - PostgreSQL / SQL
 - PHP
 - Linux
 - REST APIs
-- C#
 
-## 📚 Currently
-- Studying Software Architecture
-- Exploring database internals and system design
+## Interests
+- Database internals
+- Backend architecture
+- System design
+- Performance and reliability
 
-## 🔬 Projects
-- Experiments with backend systems
-- Database and architecture studies
-- Personal tools and learning projects
-
-## 📫 Contact
-- LinkedIn
-- Email
+## Contact
+- LinkedIn: https://linkedin.com/in/gabrielcamurca
+- Email: gabriel.camurca@outlook.com
