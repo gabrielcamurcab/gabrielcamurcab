@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gabriel Camurça
+# Gabriel Camurça Bezerra
 
 ### Backend Software Engineer | Distributed Systems & Integrations
 
